@@ -2,7 +2,7 @@
 
 In this tutorial, you will learn how to create linked maps in Earth Engine Python API. 
 
-To watch video for this tutorial: 
+To watch video for this tutorial: https://youtu.be/wsWk7XgW79Q
 
 To watch more video tutorials: https://www.youtube.com/playlist?list=PLyJZ14_CYRrC9IElaGRBFKOG7fpH61wVh
 
