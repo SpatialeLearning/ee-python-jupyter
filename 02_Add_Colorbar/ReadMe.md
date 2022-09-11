@@ -1,8 +1,8 @@
+# Add Color Bar in Earth Engine Python API   
 
-aset
-In this tutorial, you will learn how to install the earth engine python api using the geemap library. You will get started with the earth engine python api and load Landsat satellite data using a Jupyter Notebook.
+In this tutorial, you will learn how to add color bar using the geemap library. Y
 
-To watch video for this tutorial: https://youtu.be/Fd1eYs49dUI
+To watch video for this tutorial: https://youtu.be/u4rqTp6ru9k
 
 To watch more video tutorials: https://www.youtube.com/playlist?list=PLyJZ14_CYRrC9IElaGRBFKOG7fpH61wVh
 
